@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-** 👋 ¡Buenas! Soy Alejandro Quindimil **
+**👋 ¡Buenas! Soy Alejandro Quindimil**
 Soy un desarrollador apasionado por la tecnología y la programación. Me encanta colaborar en proyectos de código abierto y aprender nuevas habilidades. Aquí encontrarás una muestra de mi trabajo, desde proyectos personales hasta contribuciones a la comunidad.
 
 ## 🌐 Socials:
