@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandroquindimilcancio) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/alexquindi/code) 
-[![Email] alejandro.quindimil.cancio@gmail.com
+
 # 💻 Tech Stack:
 
 #### LANGUAGES
