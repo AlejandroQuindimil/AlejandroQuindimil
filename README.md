@@ -1,9 +1,12 @@
 # 💫 About Me:
 
+** 👋 ¡Buenas! Soy Alejandro Quindimil **
+Soy un desarrollador apasionado por la tecnología y la programación. Me encanta colaborar en proyectos de código abierto y aprender nuevas habilidades. Aquí encontrarás una muestra de mi trabajo, desde proyectos personales hasta contribuciones a la comunidad.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandroquindimilcancio) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/alexquindi/code) 
-
+[![Email](https://img.shields.io/badge/Email-red)](alejandro.quindimil.cancio@gmail.com)
 # 💻 Tech Stack:
 
 #### LANGUAGES
@@ -34,8 +37,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlejandroQuindimil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlejandroQuindimil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlejandroQuindimil&icon=0&color=3)](https://visitcount.itsvg.in)
