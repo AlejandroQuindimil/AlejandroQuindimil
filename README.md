@@ -29,10 +29,6 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 #### CI/CD VCS
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlejandroQuindimil&theme=tokyonight&hide_border=false&include_all_commits=True&count_private=True)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroQuindimil&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroQuindimil&theme=tokyonight&hide_border=false&include_all_commits=True&count_private=True&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlejandroQuindimil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
