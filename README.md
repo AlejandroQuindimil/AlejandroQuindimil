@@ -20,6 +20,12 @@ No solo escribo código que compile. Construyo con criterio de calidad para que 
 
 | Proyecto | Descripción |
 |---|---|
+| ![imagen](URL_IMAGEN) **My Fit Meal** | **My Fit Meal**<br><br> es una aplicación móvil desarrollada con **Ionic y Angular** para el cálculo de requerimiento calórico diario y distribución de macronutrientes, con seguimiento detallado de la ingesta a lo largo del día.<br><br>✅ Punto clave 1<br>✅ Punto clave 2<br>✅ Punto clave 3<br><br>[Ver Repositorio](URL_REPO) |
+
+### 🌱 Impacto Social
+
+| Proyecto | Descripción |
+|---|---|
 | ![imagen](URL_IMAGEN) **Nombre del Proyecto** | **Título del proyecto**<br><br>Breve descripción del problema que resuelve.<br><br>✅ Punto clave 1<br>✅ Punto clave 2<br>✅ Punto clave 3<br><br>[Ver Repositorio](URL_REPO) |
 
 ### 📊 Business Intelligence & Strategy
