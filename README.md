@@ -1,7 +1,32 @@
-# 💫 About Me:
+# **Hola 👋, soy Alejandro**
 
-**👋 ¡Buenas! Soy Alejandro Quindimil**
-Soy un desarrollador apasionado por la tecnología y la programación. Me encanta colaborar en proyectos de código abierto y aprender nuevas habilidades. Aquí encontrarás una muestra de mi trabajo, desde proyectos personales hasta contribuciones a la comunidad.
+**Desarrollador Frontend Junior · Angular · Java · Spring Boot · Formación en IA y Big Data**
+
+> Construyo interfaces con Angular y backends con Java/Spring Boot, aplicando la misma disciplina que entrenando: constancia, objetivos pequeños y evaluación diaria de resultados.
+
+Vengo de gestión administrativa y contable, lo que me da una visión 360º: entiendo el negocio detrás de cada línea de código.
+
+## 💡 Lo que aporto a un equipo
+
+- **Código que funciona y se entiende**: prefiero avanzar con comprensión real antes que ir rápido sin entender lo que escribo.
+- **QA mindset**: testing identificando y resolviendo bugs antes de entregar, no después.
+- **Aprendizaje constante**: especialización en IA y Big Data (Hadoop, PySpark, Kafka) además del stack frontend/backend.
+
+No solo escribo código que compile. Construyo con criterio de calidad para que aguante en producción.
+
+## 🚀 Algunos Proyectos Destacados
+
+### 🌱 Impacto Social
+
+| Proyecto | Descripción |
+|---|---|
+| ![imagen](URL_IMAGEN) **Nombre del Proyecto** | **Título del proyecto**<br><br>Breve descripción del problema que resuelve.<br><br>✅ Punto clave 1<br>✅ Punto clave 2<br>✅ Punto clave 3<br><br>[Ver Repositorio](URL_REPO) |
+
+### 📊 Business Intelligence & Strategy
+
+| Proyecto | Descripción |
+|---|---|
+| ![imagen](URL_IMAGEN) **Nombre del Proyecto** | **Título del proyecto**<br><br>Breve descripción del problema que resuelve.<br><br>✅ Punto clave 1<br>✅ Punto clave 2<br><br>[Ver Repositorio](URL_REPO) |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandroquindimilcancio) 
