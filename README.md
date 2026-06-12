@@ -20,7 +20,9 @@ No solo escribo código que compile. Construyo con criterio de calidad para que 
 
 | Proyecto | Descripción |
 |---|---|
-| ![imagen](URL_IMAGEN) **My Fit Meal** | **My Fit Meal**<br><br> es una aplicación móvil desarrollada con **Ionic y Angular** para el cálculo de requerimiento calórico diario y distribución de macronutrientes, con seguimiento detallado de la ingesta a lo largo del día.<br><br>✅ Punto clave 1<br>✅ Punto clave 2<br>✅ Punto clave 3<br><br>[Ver Repositorio](URL_REPO) |
+| ![imagen](URL_IMAGEN) **My Fit Meal** | **My Fit Meal**<br><br> es una aplicación móvil desarrollada con **Ionic y Angular** para el cálculo de requerimiento calórico diario y distribución de macronutrientes, con seguimiento detallado de la ingesta a lo largo del día.La app permite configurar las necesidades nutricionales en función de datos personales:
+<br><br>  ✅ Edad, peso y altura<br>✅ Objetivo nutricional (pérdida de peso, mantenimiento o aumento de masa muscular)<br>✅ Nivel de actividad física<br><br>
+<br><br> Proyecto personal desarrollado para practicar desarrollo móvil híbrido, integración con Firebase (autenticación y almacenamiento) y arquitectura cliente-servidor con Cloud Firestore.<br><br> [Ver Repositorio](https://github.com/AlejandroQuindimil/MyFitMeal) |
 
 ### 🌱 Impacto Social
 
