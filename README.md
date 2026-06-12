@@ -21,6 +21,8 @@ No solo escribo código que compile. Construyo con criterio de calidad para que 
 | Proyecto | Descripción |
 |---|---|
 | ![My Fit Meal](https://raw.githubusercontent.com/AlejandroQuindimil/MyFitMeal/main/proyecto1parte1.png)  | **My Fit Meal**<br><br>Aplicación móvil desarrollada con **Ionic y Angular** para el cálculo de requerimiento calórico diario y distribución de macronutrientes, con seguimiento detallado de la ingesta a lo largo del día. La app permite configurar las necesidades nutricionales en función de datos personales:<br><br>✅ Edad, peso y altura<br>✅ Objetivo nutricional (pérdida de peso, mantenimiento o aumento de masa muscular)<br>✅ Nivel de actividad física<br><br>Proyecto personal desarrollado para practicar desarrollo móvil híbrido, integración con Firebase (autenticación y almacenamiento) y arquitectura cliente-servidor con Cloud Firestore.<br><br>[Ver Repositorio](https://github.com/AlejandroQuindimil/MyFitMeal) |
+
+<!--
 ### 🌱 Impacto Social
 
 | Proyecto | Descripción |
@@ -32,6 +34,7 @@ No solo escribo código que compile. Construyo con criterio de calidad para que 
 | Proyecto | Descripción |
 |---|---|
 | ![imagen](URL_IMAGEN) **Nombre del Proyecto** | **Título del proyecto**<br><br>Breve descripción del problema que resuelve.<br><br>✅ Punto clave 1<br>✅ Punto clave 2<br><br>[Ver Repositorio](URL_REPO) |
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandroquindimilcancio) 
